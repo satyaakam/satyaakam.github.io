@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/adempiere-ekiga-sip.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2009-06-08T13:56:00+05:30</updated><entry><title>Adempiere , Asterisk and Ekiga</title><link href="http://www.satyaakam.net/adempiere-asterisk-and-ekiga.html" rel="alternate"></link><updated>2009-06-08T13:56:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-06-08:adempiere-asterisk-and-ekiga.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.mikejudd.com/"&gt;Michael Judd&lt;/a&gt; setup an asterisk system for
+&lt;a class="reference external" href="http://www.adempiere.org"&gt;adempiere&lt;/a&gt; community to use. once the
+accounts for people are created you can access it using a voip softphone
+or a hard phone.&lt;/p&gt;
+&lt;p&gt;With the service we can currently conference, and call extensions for
+free. Mike have the servers located in data centre in London which has
+plenty of bandwidth. (1,000GB/month) he has some inbound UK numbers
+which can be routed through different call groups and queues. You can
+schedule timezones and only route to certain extensions at certain times
+of the day (so as not to wake you up at night).&lt;/p&gt;
+&lt;p&gt;Currently, there is no outbound calling (as that costs money), but he
+can add additional telephone numbers for different countries and route
+them directly to you.&lt;/p&gt;
+&lt;p&gt;People who want to join the system will be able to call and transfer
+calls to each other - so this could be used as a collaboration tool for
+support.&lt;/p&gt;
+&lt;p&gt;Mike is presently looking for other interested parties to try this out -
+please contact michael dot judd at akunagroup dot com if you are
+interested.&lt;/p&gt;
+&lt;p&gt;I have tested it using &lt;a class="reference external" href="http://www.ekiga.org"&gt;Ekiga&lt;/a&gt; on 256 Kbps
+bandwidth from Airtel Broadband services , it works well some screen
+shots below&lt;/p&gt;
+&lt;p&gt;[gallery]&lt;/p&gt;
+&lt;p&gt;account settings i have done in Ekiga&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;service:&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;username:&lt;/div&gt;
+&lt;div class="line"&gt;password: (same for voicemail)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;You can try the following numbers:&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;102 - Mike Judd&lt;/div&gt;
+&lt;div class="line"&gt;304 - Satyag&lt;/div&gt;
+&lt;div class="line"&gt;# - Directory&lt;/div&gt;
+&lt;div class="line"&gt;*43 - echo test&lt;/div&gt;
+&lt;div class="line"&gt;*60 - speaking clock&lt;/div&gt;
+&lt;div class="line"&gt;411 - Directory dial by name&lt;/div&gt;
+&lt;div class="line"&gt;*97 - voicemail&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You can try other sip clients from this &lt;a class="reference external" href="http://en.wikipedia.org/wiki/List_of_SIP_software#SIP_clients"&gt;Sip
+software&lt;/a&gt;
+list and report to mike how things are working at your end&lt;/p&gt;
+</summary><category term="Sip"></category><category term="Voip"></category></entry></feed>

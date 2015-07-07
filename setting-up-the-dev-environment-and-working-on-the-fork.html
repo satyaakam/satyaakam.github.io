@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Setting up the Dev environment and working on the Fork</title>
+        <link rel="stylesheet" href="http://www.satyaakam.net/theme/css/main.css" />
+        <link href="http://www.satyaakam.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Learning and Living Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://www.satyaakam.net/">Learning and Living </a></h1>
+                <nav><ul>
+                    <li><a href="http://www.satyaakam.net/category/adempiere.html">Adempiere</a></li>
+                    <li><a href="http://www.satyaakam.net/category/adempiere-contribute-contributions-foss.html">Adempiere, Contribute, contributions, FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/adempiere-ekiga-sip.html">Adempiere, Ekiga, Sip</a></li>
+                    <li><a href="http://www.satyaakam.net/category/adempiere-foss-scm.html">Adempiere, FOSS, SCM</a></li>
+                    <li><a href="http://www.satyaakam.net/category/android-eclipse-foss.html">Android, Eclipse, FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/benq-foss-netbook-ubuntu.html">Benq, FOSS, Netbook, Ubuntu</a></li>
+                    <li><a href="http://www.satyaakam.net/category/cloud-community-contribute-contributions-eucalyptus-foss-gis-social.html">Cloud, community, Contribute, contributions, Eucalyptus, FOSS, GIS, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/cloud-community-contribute-social.html">Cloud, community, Contribute, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss.html">community, Contribute, contributions, FOSS</a></li>
+                    <li class="active"><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-fossacademy-python-social.html">community, Contribute, contributions, FOSS, fossacademy, python, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-fossacademy-social.html">community, Contribute, contributions, FOSS, fossacademy, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-gis-hackathon-opendata-python.html">community, Contribute, contributions, FOSS, GIS, hackathon, Opendata, python</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-hackathon-opendata-personal-privacy-python-social.html">community, Contribute, contributions, FOSS, hackathon, Opendata, Personal, privacy, python, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-netbook-olpc-sugar-xo.html">community, Contribute, contributions, FOSS, Netbook, OLPC, Sugar, XO</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-personal-social-xo.html">community, Contribute, contributions, FOSS, Personal, social, XO</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-social.html">community, Contribute, contributions, FOSS, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-event-foss-social-uncategorized.html">community, Contribute, Event, FOSS, social, Uncategorized</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contribute-foss-social-uncategorized.html">community, Contribute, FOSS, social, Uncategorized</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-contributions-foss-fossacademy.html">community, contributions, FOSS, fossacademy</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-education-foss-social.html">community, Education, FOSS, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-foss-fossacademy-python.html">community, FOSS, fossacademy, python</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-foss-social.html">community, FOSS, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/community-hackathon-opendata-social.html">community, hackathon, Opendata, social</a></li>
+                    <li><a href="http://www.satyaakam.net/category/contribute-contributions-foss.html">Contribute, contributions, FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/contribute-education-fossacademy.html">Contribute, Education, fossacademy</a></li>
+                    <li><a href="http://www.satyaakam.net/category/contribute-foss.html">Contribute, FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/contribute-foss-ubuntu.html">Contribute, FOSS, Ubuntu</a></li>
+                    <li><a href="http://www.satyaakam.net/category/contributions-foss-workshop.html">contributions, FOSS, workshop</a></li>
+                    <li><a href="http://www.satyaakam.net/category/event.html">Event</a></li>
+                    <li><a href="http://www.satyaakam.net/category/event-foss.html">Event, FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/event-foss-personal.html">Event, FOSS, Personal</a></li>
+                    <li><a href="http://www.satyaakam.net/category/foss.html">FOSS</a></li>
+                    <li><a href="http://www.satyaakam.net/category/foss-olpc-sugar.html">FOSS, OLPC, Sugar</a></li>
+                    <li><a href="http://www.satyaakam.net/category/foss-uncategorized.html">FOSS, Uncategorized</a></li>
+                    <li><a href="http://www.satyaakam.net/category/misc.html">misc</a></li>
+                    <li><a href="http://www.satyaakam.net/category/python-tips.html">python, tips</a></li>
+                    <li><a href="http://www.satyaakam.net/category/trip.html">trip</a></li>
+                    <li><a href="http://www.satyaakam.net/category/ubuntu.html">Ubuntu</a></li>
+                    <li><a href="http://www.satyaakam.net/category/uncategorized.html">Uncategorized</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://www.satyaakam.net/setting-up-the-dev-environment-and-working-on-the-fork.html" rel="bookmark"
+           title="Permalink to Setting up the Dev environment and working on the Fork">Setting up the Dev environment and working on the Fork</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2011-06-01T09:40:00+05:30">
+                Published: Wed 01 June 2011
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://www.satyaakam.net/author/satya.html">satya</a>
+        </address>
+<p>In <a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-fossacademy-python-social.html">community, Contribute, contributions, FOSS, fossacademy, python, social</a>.</p>
+
+</footer><!-- /.post-info -->      <p>Khanacademy.org code is lying here
+<a class="reference external" href="http://code.google.com/p/khanacademy/wiki/Source?tm=4">Source</a> , the
+link from here will point us to the <a class="reference external" href="https://khanacademy.kilnhg.com/Repo/Website/Group/stable">Source
+Link</a> i
+have checked and tried getting kinhg account looks like it a paid site
+and we need to pay after 45 days , my initial though before visiting
+this site was to branch and maintain a tree there itself looks like it
+is not as open as it claims. So the other option is to fork since the
+code is anyway licensed under
+<a class="reference external" href="http://www.opensource.org/licenses/bsd-license.php">BSD2</a> lincense .</p>
+<p>We are going to maintain two Repos one of Khanacademy ( KA) and one of
+Fossacademy (FA) .</p>
+<p>why maintain KA code , because initially when we start off as FA we will
+have just KA code but over time it is going to differ and change in ways
+, but also we will have some changes upstream in KA which we will be
+needing from time to time to fix bugs which must have already crept in.</p>
+<p>yes it is a overhead we have to live with for the time being .</p>
+<p>coming back to the FA we will be maintaining the code on
+<a class="reference external" href="https://bitbucket.org/">Bitbucket</a> , and everyone will pull from the
+stable FA and start maintaining the FA trunkc or fork they will be free
+to take the call .</p>
+<p>on maintaining the dev environment , i found any variant of
+<a class="reference external" href="http://www.eclipse.org/downloads/">Eclipse</a> to be a
+good<a class="reference external" href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>
+to maintain the code , you are free to maintain any IDE/Editor you are
+comfortable with .</p>
+<p>this video explains it all <a class="reference external" href="http://www.youtube.com/watch?v=qhBeXhZJMUw">Setting Dev
+environment</a>using
+eclipse .</p>
+<p>i will be writing on the goals and specs for the project as we move
+along keep watching this space ...</p>
+
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://www.satyaakam.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

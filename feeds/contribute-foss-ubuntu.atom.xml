@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/contribute-foss-ubuntu.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2012-10-19T12:44:00+05:30</updated><entry><title>Ubuntu 12.10 released</title><link href="http://www.satyaakam.net/ubuntu-12-10-released.html" rel="alternate"></link><updated>2012-10-19T12:44:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2012-10-19:ubuntu-12-10-released.html</id><summary type="html">&lt;p&gt;Ubuntu 12.10 has been released to my surprise i found only four
+&lt;a class="reference external" href="https://wiki.ubuntu.com/Mirrors?action=show&amp;amp;redirect=Archive"&gt;mirrors&lt;/a&gt;
+from India. Need to talk to Andrew for maintaining Mirrors of all the
+major Distros in JNU.&lt;/p&gt;
+</summary><category term="Community"></category><category term="Mirrors"></category><category term="Servers"></category></entry></feed>

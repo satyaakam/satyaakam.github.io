@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/community-contribute-contributions-foss-fossacademy-python-social.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2011-06-01T09:40:00+05:30</updated><entry><title>Setting up the Dev environment and working on the Fork</title><link href="http://www.satyaakam.net/setting-up-the-dev-environment-and-working-on-the-fork.html" rel="alternate"></link><updated>2011-06-01T09:40:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2011-06-01:setting-up-the-dev-environment-and-working-on-the-fork.html</id><summary type="html">&lt;p&gt;Khanacademy.org code is lying here
+&lt;a class="reference external" href="http://code.google.com/p/khanacademy/wiki/Source?tm=4"&gt;Source&lt;/a&gt; , the
+link from here will point us to the &lt;a class="reference external" href="https://khanacademy.kilnhg.com/Repo/Website/Group/stable"&gt;Source
+Link&lt;/a&gt; i
+have checked and tried getting kinhg account looks like it a paid site
+and we need to pay after 45 days , my initial though before visiting
+this site was to branch and maintain a tree there itself looks like it
+is not as open as it claims. So the other option is to fork since the
+code is anyway licensed under
+&lt;a class="reference external" href="http://www.opensource.org/licenses/bsd-license.php"&gt;BSD2&lt;/a&gt; lincense .&lt;/p&gt;
+&lt;p&gt;We are going to maintain two Repos one of Khanacademy ( KA) and one of
+Fossacademy (FA) .&lt;/p&gt;
+&lt;p&gt;why maintain KA code , because initially when we start off as FA we will
+have just KA code but over time it is going to differ and change in ways
+, but also we will have some changes upstream in KA which we will be
+needing from time to time to fix bugs which must have already crept in.&lt;/p&gt;
+&lt;p&gt;yes it is a overhead we have to live with for the time being .&lt;/p&gt;
+&lt;p&gt;coming back to the FA we will be maintaining the code on
+&lt;a class="reference external" href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt; , and everyone will pull from the
+stable FA and start maintaining the FA trunkc or fork they will be free
+to take the call .&lt;/p&gt;
+&lt;p&gt;on maintaining the dev environment , i found any variant of
+&lt;a class="reference external" href="http://www.eclipse.org/downloads/"&gt;Eclipse&lt;/a&gt; to be a
+good&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Integrated_development_environment"&gt;IDE&lt;/a&gt;
+to maintain the code , you are free to maintain any IDE/Editor you are
+comfortable with .&lt;/p&gt;
+&lt;p&gt;this video explains it all &lt;a class="reference external" href="http://www.youtube.com/watch?v=qhBeXhZJMUw"&gt;Setting Dev
+environment&lt;/a&gt;using
+eclipse .&lt;/p&gt;
+&lt;p&gt;i will be writing on the goals and specs for the project as we move
+along keep watching this space ...&lt;/p&gt;
+</summary></entry></feed>

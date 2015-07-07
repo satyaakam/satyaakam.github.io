@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/community-contribute-contributions-foss-gis-hackathon-opendata-python.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2013-03-05T23:10:00+05:30</updated><entry><title>First bite of data.gov.in datasets</title><link href="http://www.satyaakam.net/first-bite-of-data-gov-in-datasets.html" rel="alternate"></link><updated>2013-03-05T23:10:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-03-05:first-bite-of-data-gov-in-datasets.html</id><summary type="html">&lt;p&gt;We turned up at the announced event through the &lt;a class="reference external" href="https://www.facebook.com/events/356533261121579/"&gt;facebook events
+page&lt;/a&gt;, had no clue
+who the organizers were and the
+&lt;a class="reference external" href="http://www.schoolofconvergence.com/"&gt;place&lt;/a&gt; we were going to . The
+page just mentioned about telling stories with data. Staying with the
+&lt;a class="reference external" href="http://datameet.org/"&gt;open data&lt;/a&gt;&amp;nbsp;community i had a clue of what was
+coming , but did not have a clear agenda or plan of action for next few
+hours we were going to stay at the meetup.One of the datasets i have
+been hearing about a lot past few months &amp;nbsp;is from the data.gov.in
+website , since my rendevous with the Open Data from govt has been
+limited to the public data available through
+&lt;a class="reference external" href="http://www.chalobest.in"&gt;chalobest.in&lt;/a&gt; project , this project still
+has not been realized in &amp;nbsp;NCR area. Anyway the place was a buzz with
+people of all age groups mostly students from journalism and activists
+too . we all sat in small groups either talking about an idea or data
+set we would be working on . Since i was interested in the data sets
+from Govt , we picked the &lt;a class="reference external" href="http://data.gov.in/dataset/infant-mortality-rate-imr"&gt;infant mortality
+rate&amp;nbsp;&lt;/a&gt;&amp;nbsp;it was
+in CSV format , the big picture was to create a Heatmap out of &amp;nbsp;the
+data&amp;nbsp;available&amp;nbsp;, the first thing we noticed was there were not lat longs
+for the states , so two members from team &amp;#64;arcolife &amp;nbsp;and Myself sat down
+with the site&lt;a class="reference external" href="http://www.geonames.org/"&gt;Geonames.org&lt;/a&gt;to collect
+&amp;nbsp;the same , in the meantime &amp;#64;bhanuvrat , &amp;#64;kanteshraj were writing
+scripts to the data transformed &amp;nbsp;in the format required . Ramniq was our
+anchor man who was putting everything together , he started of with the
+Heatmap code , initially he was dablling with Openlayers later we
+switched to Leaflet which was much easier to code in . Overall at the
+end of it we produced the following heat map .&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://satyaakam.net/wp-content/uploads/2013/12/heatmap.png"&gt;&lt;img alt="heatmap" src="http://satyaakam.net/wp-content/uploads/2013/12/heatmap.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;which was sort of hardcoded and &amp;nbsp;static one with the limitations of time
+we could produce here is the code for the
+&amp;nbsp;&lt;a class="reference external" href="https://bitbucket.org/ramniquesingh/heatmap-demo/src"&gt;Heatmap&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;
+&lt;p&gt;The experience has been good for everyone since we we were getting
+together after longtime and produced something in the end. Scope for
+improvements we can cover more years with &amp;nbsp;a time line kind of interface
+and really see it visually which is kind of nice than just some dry
+numbers on a spread sheet . We dispersed with lots of &lt;a class="reference external" href="https://www.facebook.com/media/set/?set=oa.476488175739797&amp;amp;type=1"&gt;sweet
+memories&lt;/a&gt;&amp;nbsp;and
+hope to have more such events in future.&lt;/p&gt;
+&lt;p&gt;Tools and Software used&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;[1] &lt;a class="reference external" href="http://www.python.org"&gt;Python
+[2]&lt;/a&gt;&amp;nbsp;&lt;a class="reference external" href="http://www.geonames.org"&gt;Geonames
+[&lt;/a&gt;3] Javascript&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;[4] &lt;a class="reference external" href="https://github.com/sunng87/heatcanvas"&gt;Heatcanvas
+ [&lt;/a&gt;5]
+&lt;a class="reference external" href="http://leafletjs.com/"&gt;Leaflet&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry></feed>

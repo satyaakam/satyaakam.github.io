@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/adempiere.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2009-05-15T19:58:00+05:30</updated><entry><title>First commiter from India</title><link href="http://www.satyaakam.net/99.html" rel="alternate"></link><updated>2009-05-15T19:58:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-05-15:99.html</id><summary type="html">&lt;p&gt;Well it is official now i am the first commiter from India for
+&lt;a class="reference external" href="http://adempiere.org"&gt;Adempiere&lt;/a&gt;.For those who don't know what
+Adempiere Business Suite is its an industrial strength open-source
+software solution that combines ERP, CRM and SCM support for business
+processes. ADempiere provides a framework for extending and customizing
+to meet business needs. here is a short video about Adempiere&lt;/p&gt;
+</summary><category term="CRM"></category><category term="ERP"></category><category term="SCM"></category></entry><entry><title>Nominate Adempiere for Best Community Project Award</title><link href="http://www.satyaakam.net/nominate-adempiere-for-best-community-project-award.html" rel="alternate"></link><updated>2009-05-11T13:48:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-05-11:nominate-adempiere-for-best-community-project-award.html</id><summary type="html">&lt;p&gt;Show your support for the FOSS projects you use and love by nominating
+them for SourceForge.net Community Choice Awards.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://sourceforge.net/community/cca09/nominate/?project_name=ADempiere%20ERP%20Business%20Suite&amp;amp;project_url=http://sourceforge.net/projects/adempiere/"&gt;&lt;img alt="image0" src="http://sourceforge.net/images/cca/cca_nominate.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

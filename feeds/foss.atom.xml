@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/foss.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2009-04-19T19:36:00+05:30</updated><entry><title>Wp-OSM testing</title><link href="http://www.satyaakam.net/wp-osm-testing.html" rel="alternate"></link><updated>2009-04-19T19:36:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-04-19:wp-osm-testing.html</id><summary type="html">&lt;p&gt;[osm_map zoom=&amp;quot;4&amp;quot; width=&amp;quot;600&amp;quot; height=&amp;quot;450&amp;quot; lat=&amp;quot;51.508&amp;quot; long=&amp;quot;-0.11 &amp;quot;
+import=&amp;quot;ecf&amp;quot; msg_box=&amp;quot;lat_long&amp;quot;]&lt;/p&gt;
+</summary><category term="Wp test"></category></entry></feed>

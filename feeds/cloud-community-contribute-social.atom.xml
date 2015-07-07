@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Learning and Living</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/cloud-community-contribute-social.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2012-10-17T22:46:00+05:30</updated><entry><title>Measuring Mobile Bandwidth in a Crowd sourced way ?</title><link href="http://www.satyaakam.net/measuring-mobile-bandwidth-in-a-crowd-sourced-way.html" rel="alternate"></link><updated>2012-10-17T22:46:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2012-10-17:measuring-mobile-bandwidth-in-a-crowd-sourced-way.html</id><summary type="html">&lt;p&gt;I have been dabbling with the idea of collating data from individuals
+using crowd sourced way in India. so far the only way i have seen is the
+by downloading and uploading a certain amount of data to the client and
+measuring it. The features i am looking at in my app are as follows&lt;/p&gt;
+&lt;p&gt;1) HTML 5 based : since it will run on all platforms , write once and
+run it anywhere&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Track the user ip for geocoding&lt;/li&gt;
+&lt;li&gt;map the result in on a map : using leaflet library&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Why am i a doing this ?&lt;/p&gt;
+&lt;p&gt;1) As a user we have seen many G's so far they are not reliable many
+times and we do not have a record of these services not working or in
+bad shape in some areas.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Policy makers can take certain decisions based on this raw data.&lt;/li&gt;
+&lt;li&gt;Mobile Companies can improve there services .&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This website initially will be self funded later stage i will seek some
+funds from Govt , Companies or sources where they value these kind of
+interventions.&lt;/p&gt;
+&lt;p&gt;i in &amp;nbsp;talks
+with&amp;nbsp;&lt;a class="reference external" href="http://twitter.com/anders94"&gt;anders94&lt;/a&gt;&amp;nbsp;of&amp;nbsp;&amp;nbsp;html5speedtest.me
+&amp;nbsp;he has agreed in principle to help me. Still i am not clear what
+license his scripts are since he wrote it for
+&lt;a class="reference external" href="http://bandwidthplace.com"&gt;bandwidthplace&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;
+&lt;p&gt;There has been many efforts like these in past notable ones are
+&lt;a class="reference external" href="http://measurementlab.net/"&gt;measurement lab&lt;/a&gt;&amp;nbsp;, i found there tools
+to be outdated and use java applets . But the 6 Terabytes of hosted on
+Google big data can be accesed using Big query for free. The other
+interesting case was of the &lt;a class="reference external" href="http://opensignal.com/"&gt;Opensignal&lt;/a&gt;&amp;nbsp;to
+my surprise they actually got funded for 131 Millon dollars for this
+effort ,never imagined you can make money from people's effort.
+&amp;nbsp;&lt;a class="reference external" href="http://www.bbc.co.uk/news/technology-14644507"&gt;BBC&lt;/a&gt;&amp;nbsp;did a study of
+its own using some of the Opensignal Data and there own data to do a
+&lt;a class="reference external" href="http://www.bbc.co.uk/news/technology-14644507"&gt;column&lt;/a&gt;&amp;nbsp;studying the
+user base and the Signal strength.&lt;/p&gt;
+&lt;p&gt;Now coming back to my part i am looking at &lt;a class="reference external" href="http://nodejs.org/"&gt;Node&lt;/a&gt;
+&amp;nbsp;as a serious tech in the whole thing in my building a page to collect
+the data.&lt;/p&gt;
+</summary><category term="Bigdata"></category><category term="Mobile"></category><category term="Opendata"></category></entry></feed>
