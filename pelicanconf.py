@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Satyakam Goswami'
-SITENAME = u'Learning and Living'
+SITENAME = u'Satyakam.net'
 SITEURL = ''
 
 PATH = 'content'
@@ -28,6 +28,34 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
+#Variable to set Theme
+THEME = './voidy-bootstrap'
+
+SITESUBTITLE ='Learning and Living'
+SITETAG = "Satyaakam.net"
+
+# Extra stylesheets, for bootstrap overrides or additional styling.
+STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css",)
+
+# Put taglist at end of articles, and use the default sharing button implementation.
+CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
+CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
+
+# Default sidebar template. Omit this line for single column mode without sidebar.
+SIDEBAR = "sidebar.html"
+
+SOCIAL = (('Google+', 'http://plus.google.com/satyaakam',
+         'fa fa-google-plus-square fa-fw fa-lg'),
+        ('Twitter', 'https://twitter.com/satyaakam',
+         'fa fa-twitter-square fa-fw fa-lg'),
+        ('LinkedIn', 'http://linkedin-url',
+         'fa fa-linkedin-square fa-fw fa-lg'),
+        ('BitBucket', 'http://bitbucket.org/satyaakam',
+         'fa fa-bitbucket-square fa-fw fa-lg'),
+        ('GitHub', 'http://github.com/satyaakam',
+         'fa fa-github-square fa-fw fa-lg'),
+        )
 
 DEFAULT_PAGINATION = 10
 
