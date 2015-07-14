@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Satyakam.net</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/misc.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2013-12-01T03:16:00+05:30</updated><entry><title>No title [131]</title><link href="http://www.satyaakam.net/131.html" rel="alternate"></link><updated>2013-12-01T03:16:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:131.html</id><summary type="html">&lt;p&gt;I hope to build this Blog&amp;nbsp; as a&amp;nbsp; place to share info about me and what i
-am upto these days professionally or otherwise , i welcome all the web
-hitch hackers and people i know . Professionally&amp;nbsp; been into different
-roles of IT&amp;nbsp; with diverse and enriching experiences in R&amp;amp;D, Project
-Management, People management, Business Development &amp;amp; System
-administration. My profile in these years has covered&amp;nbsp; international
-assignments in managing cross-functional and cross-geographical
-assignments. Presently i am open to work in full time or part time
-positions involving&amp;nbsp; assignments like but not limited to Running Foss
-Competency centere , FOSS&amp;nbsp; Trainer&amp;nbsp; , Community Builder,&amp;nbsp; IT
-Infrastructure&amp;nbsp; manager&amp;nbsp; prior to doing this i worked with&amp;nbsp; Cadence
-Design Systems , Inc. as member of Consulting Staff, managing there
-Linux Development Environment ,&amp;nbsp; before&amp;nbsp; Cadence I worked with Red Hat
-as Project Manager where in I managed Solutions to Govt Organizations in
-Open Source Solutions . more info about me with time line can be viewed
-on&amp;nbsp; Linked in&lt;/p&gt;
-</summary></entry><entry><title>Ideas</title><link href="http://www.satyaakam.net/ideas.html" rel="alternate"></link><updated>2013-12-01T03:16:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:ideas.html</id><summary type="html"></summary></entry><entry><title>Sample Page</title><link href="http://www.satyaakam.net/sample-page.html" rel="alternate"></link><updated>2013-12-01T03:07:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:sample-page.html</id><summary type="html">&lt;p&gt;This is an example page. It's different from a blog post because it will
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Satyakam.net</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/misc.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2013-12-01T03:16:00+05:30</updated><entry><title>Ideas</title><link href="http://www.satyaakam.net/ideas.html" rel="alternate"></link><updated>2013-12-01T03:16:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:ideas.html</id><summary type="html"></summary></entry><entry><title>Sample Page</title><link href="http://www.satyaakam.net/sample-page.html" rel="alternate"></link><updated>2013-12-01T03:07:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:sample-page.html</id><summary type="html">&lt;p&gt;This is an example page. It's different from a blog post because it will
 stay in one place and will show up in your site navigation (in most
 themes). Most people start with an About page that introduces them to
 potential site visitors. It might say something like this:&lt;/p&gt;
