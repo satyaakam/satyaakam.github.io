@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Satyakam.net</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/misc.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2013-12-01T03:16:00+05:30</updated><entry><title>Ideas</title><link href="http://www.satyaakam.net/ideas.html" rel="alternate"></link><updated>2013-12-01T03:16:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:ideas.html</id><summary type="html"></summary></entry><entry><title>Sample Page</title><link href="http://www.satyaakam.net/sample-page.html" rel="alternate"></link><updated>2013-12-01T03:07:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:sample-page.html</id><summary type="html">&lt;p&gt;This is an example page. It's different from a blog post because it will
-stay in one place and will show up in your site navigation (in most
-themes). Most people start with an About page that introduces them to
-potential site visitors. It might say something like this:&lt;/p&gt;
-&lt;blockquote&gt;
-Hi there! I'm a bike messenger by day, aspiring actor by night, and
-this is my blog. I live in Los Angeles, have a great dog named Jack,
-and I like piña coladas. (And gettin' caught in the rain.)&lt;/blockquote&gt;
-&lt;p&gt;...or something like this:&lt;/p&gt;
-&lt;blockquote&gt;
-The XYZ Doohickey Company was founded in 1971, and has been
-providing quality doohickeys to the public ever since. Located in
-Gotham City, XYZ employs over 2,000 people and does all kinds of
-awesome things for the Gotham community.&lt;/blockquote&gt;
-&lt;p&gt;As a new WordPress user, you should go to &lt;a class="reference external" href="http://satyaakam.net/wp-admin/"&gt;your
-dashboard&lt;/a&gt; to delete this page and
-create new pages for your content. Have fun!&lt;/p&gt;
-</summary></entry><entry><title>About</title><link href="http://www.satyaakam.net/about.html" rel="alternate"></link><updated>2008-09-30T02:59:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2008-09-30:about.html</id><summary type="html">&lt;p&gt;This website is about me and the things that are happening around me .
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Satyakam.net</title><link href="http://www.satyaakam.net/" rel="alternate"></link><link href="http://www.satyaakam.net/feeds/misc.atom.xml" rel="self"></link><id>http://www.satyaakam.net/</id><updated>2013-12-01T03:16:00+05:30</updated><entry><title>Ideas</title><link href="http://www.satyaakam.net/ideas.html" rel="alternate"></link><updated>2013-12-01T03:16:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-12-01:ideas.html</id><summary type="html"></summary></entry><entry><title>About</title><link href="http://www.satyaakam.net/about.html" rel="alternate"></link><updated>2008-09-30T02:59:00+05:30</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2008-09-30:about.html</id><summary type="html">&lt;p&gt;This website is about me and the things that are happening around me .
 It is about my experiments , rants and&amp;nbsp; things i like or do not&amp;nbsp;, It
 does not reflect in any sense about the companies i consult or work for
 . If you need to know more about my chronological professional
