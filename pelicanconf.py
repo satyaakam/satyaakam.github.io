@@ -25,10 +25,6 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
 #Variable to set Theme
 THEME = './voidy-bootstrap'
 
@@ -49,7 +45,7 @@ SOCIAL = (('Google+', 'http://plus.google.com/satyaakam',
          'fa fa-google-plus-square fa-fw fa-lg'),
         ('Twitter', 'https://twitter.com/satyaakam',
          'fa fa-twitter-square fa-fw fa-lg'),
-        ('LinkedIn', 'http://linkedin-url',
+        ('LinkedIn', 'https://www.linkedin.com/in/satyaakam',
          'fa fa-linkedin-square fa-fw fa-lg'),
         ('BitBucket', 'http://bitbucket.org/satyaakam',
          'fa fa-bitbucket-square fa-fw fa-lg'),
