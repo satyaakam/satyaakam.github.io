@@ -1,5 +1,4 @@
- Congrats to Everyone @ Adempiere 10,000 Commits Within Three Years!!!
-
+:title: Congrats to Everyone @ Adempiere 10,000 Commits Within Three Years!!!
 :date: 2009-08-24 23:27
 :author: satya
 :category: Adempiere, contributions, Event, FOSS
