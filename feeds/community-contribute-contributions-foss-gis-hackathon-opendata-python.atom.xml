@@ -27,7 +27,7 @@ anchor man who was putting everything together , he started of with the
 Heatmap code , initially he was dablling with Openlayers later we
 switched to Leaflet which was much easier to code in . Overall at the
 end of it we produced the following heat map .&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://satyaakam.net/wp-content/uploads/2013/12/heatmap.png"&gt;&lt;img alt="heatmap" src="http://satyaakam.net/wp-content/uploads/2013/12/heatmap.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img alt="heatmap" class="align-center" src="../images/heatmap.png" style="width: 600px; height: 500px;" /&gt;
 &lt;p&gt;which was sort of hardcoded and &amp;nbsp;static one with the limitations of time
 we could produce here is the code for the
 &amp;nbsp;&lt;a class="reference external" href="https://bitbucket.org/ramniquesingh/heatmap-demo/src"&gt;Heatmap&lt;/a&gt;&amp;nbsp;.&lt;/p&gt;
