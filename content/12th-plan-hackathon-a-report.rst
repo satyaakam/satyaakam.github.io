@@ -49,17 +49,19 @@ submit button just in nick of time with Sajjad Ramnique and `Sumandro
 
 First on the block were us Sumandro presented our idea and the Jury was
 interactive and liked out idea . Here is the link to `Build Your
-App <http://geohacker.github.io/12th-plan>`__\ the live application
+App <http://geohacker.github.io/12th-plan>`__\  the live application
 .  we hung around the venue till late in the evening till all the
 presentations were over .
 
-|build1|
+.. image:: ../images/build1.png
+    :width: 500px
+    :align: center
+    :height: 500px
+    :alt: build1
 
- 
-
-|Once the user plays with his allocations he will get different
+Once the user plays with his allocations he will get different
 scenarios showing how his plan will look.This he can share with people
-which they can vote on.|
+which they can vote on.
 
 overall the experience has been a positive one with some scope for
 improvements like the internet connectivity was bad we were using our

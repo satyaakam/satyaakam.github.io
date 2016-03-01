@@ -6,12 +6,7 @@ What i have been upto last few months !!
 :slug: what-i-have-been-upto-last-few-months
 :status: published
 
-[osm\_map lat="28.589" long="77.235" zoom="17" width="550" height="300"
-]
-
- 
-
-**`Data.gov.in  <http://www.data.gov.in>`__ **\ is and was a fun place
+`Data.gov.in <http://www.data.gov.in>`_.  is and was a fun place
 to work  the `project in pursuit of an
 'idea' <http://data.gov.in/community/idea-collaboration>`__  was
 conceived packed and delivered with a short time frame of May-August .

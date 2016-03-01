@@ -9,11 +9,14 @@ Logos for Fossacademy.org
 Few Logos i got from people around let me know which one of them you
 like through comments to this post.
 
-|img|
+.. image:: ../images/img.jpg
+    :width: 500px
+    :align: center
+    :height: 500px
+    :alt: logo1
 
-|logo3|
-
-.. |img| image:: http://satyaakam.net/wp-content/uploads/2013/12/img.jpg
-   :target: http://satyaakam.net/wp-content/uploads/2013/12/img.jpg
-.. |logo3| image:: http://satyaakam.net/wp-content/uploads/2013/12/logo3.png
-   :target: http://satyaakam.net/wp-content/uploads/2013/12/logo3.png
+.. image:: ../images/logo3.png
+    :width: 500px
+    :align: center
+    :height: 500px
+    :alt: logo3

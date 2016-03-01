@@ -18,5 +18,5 @@ to new area of learning. Its about ‘seeing the light’… " , thanks
 `Hasgeek <http://hasgeek.com>`__ and `Spurline <http://spurline.in>`__
 for making this happen.
 
-.. |logo| image:: http://satyaakam.net/wp-content/uploads/2013/12/logo.png
-   :target: http://satyaakam.net/wp-content/uploads/2013/12/logo.png
+.. |logo| image:: http://satyaakam.net/images/logo.png
+   :target: http://satyaakam.net/images/logo.png

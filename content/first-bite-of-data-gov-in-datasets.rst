@@ -35,7 +35,11 @@ Heatmap code , initially he was dablling with Openlayers later we
 switched to Leaflet which was much easier to code in . Overall at the
 end of it we produced the following heat map .
 
-|heatmap|
+.. image:: ../images/heatmap.png
+    :width: 600px
+    :align: center
+    :height: 500px
+    :alt: heatmap
 
 which was sort of hardcoded and  static one with the limitations of time
 we could produce here is the code for the
