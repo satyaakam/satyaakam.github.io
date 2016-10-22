@@ -1,164 +1,81 @@
+
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
+<head>
+  <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="http://www.satyaakam.net/theme/stylesheet/style.min.css">
+
+  <link rel="stylesheet" type="text/css" href="http://www.satyaakam.net/theme/pygments/github.min.css">
+  <link rel="stylesheet" type="text/css" href="http://www.satyaakam.net/theme/font-awesome/css/font-awesome.min.css">
+
+
+    <link href="http://www.satyaakam.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Satyaakam.net Atom">
+
+
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
+
+
     <meta name="author" content="Satyakam Goswami" />
-    <meta name="generator" content="Pelican (VoidyBootstrap theme)" />
+    <meta name="description" content="" />
+<meta property="og:site_name" content="Satyaakam.net"/>
+<meta property="og:type" content="blog"/>
+<meta property="og:title" content="Satyaakam.net"/>
+<meta property="og:description" content=""/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="http://www.satyaakam.net"/>
 
-    <title>Satyakam.net - Satyaakam.net - Page 4</title>
+  <title>Satyaakam.net</title>
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="http://www.satyaakam.net">
+        <img src="http://www.satyaakam.net/theme/img/profile.png" alt="" title="">
+      </a>
+      <h1><a href="http://www.satyaakam.net"></a></h1>
 
-   
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
-      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />  
+<p>Learning and Living</p>
+      <nav>
+        <ul class="list">
+
+          <li><a href="http://getpelican.com/" target="_blank">Pelican</a></li>
+          <li><a href="http://python.org/" target="_blank">Python.org</a></li>
+          <li><a href="http://jinja.pocoo.org/" target="_blank">Jinja2</a></li>
+          <li><a href="#" target="_blank">You can modify those links in your config file</a></li>
+        </ul>
+      </nav>
+
+      <ul class="social">
+        <li><a class="sc-Google+" href="http://plus.google.com/satyaakam" target="_blank"><i class="fa fa-Google+"></i></a></li>
+        <li><a class="sc-Twitter" href="https://twitter.com/satyaakam" target="_blank"><i class="fa fa-Twitter"></i></a></li>
+        <li><a class="sc-LinkedIn" href="https://www.linkedin.com/in/satyaakam" target="_blank"><i class="fa fa-LinkedIn"></i></a></li>
+        <li><a class="sc-BitBucket" href="http://bitbucket.org/satyaakam" target="_blank"><i class="fa fa-BitBucket"></i></a></li>
+        <li><a class="sc-GitHub" href="http://github.com/satyaakam" target="_blank"><i class="fa fa-GitHub"></i></a></li>
+      </ul>
+    </div>
+  </aside>
+  <main>
+
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/olpc-boot-sequence.html#olpc-boot-sequence">OLPC boot sequence</a></h2>
+    <p>
+          Posted on Fri 14 August 2009 in <a href="http://www.satyaakam.net/category/foss-olpc-sugar.html">FOSS, OLPC, Sugar</a>
 
 
-      <link rel="stylesheet" href="http://www.satyaakam.net/theme/css/pygment.css" />
-      <link rel="stylesheet" href="http://www.satyaakam.net/theme/css/voidybootstrap.css" />
+          &#8226;     Tagged with
 
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <link rel="shortcut icon" href="http://www.satyaakam.net/favicon.ico" />
-        <link href="http://www.satyaakam.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Satyakam.net Atom Feed" />
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-7511316-1', '');
-  ga('send', 'pageview');
-
-</script>
-  </head>
-
-  <body>
-   
-    <nav class="navbar navbar-default" role="navigation">
-      <div class="container">
-	   <div class="navbar-header">
-		<button type="button" class="navbar-toggle" 
-				data-toggle="collapse" data-target="#main-navbar-collapse">
-		  <span class="sr-only">Toggle navigation</span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		</button>
-		<a class="navbar-brand" href="http://www.satyaakam.net/" rel="home">
-          <i class="fa fa-home fa-fw fa-lg"> </i> </a>
-       </div>
-
-      <div class="collapse navbar-collapse" id="main-navbar-collapse">
-        <ul class="nav navbar-nav">
-            <li class="divider"></li>
-            <li class="">
-              <a href="http://www.satyaakam.net/archives.html">Archives</a>
-            </li>
-          <li class="divider"></li>
-            <li><a href="http://www.satyaakam.net/feeds/all.atom.xml" 
-                   type="application/atom+xml" rel="alternate">
-                <i class="fa fa-rss fa-fw fa-lg"></i> </a></li>
-        </ul> <!-- /nav -->
-      </div> <!-- /navbar-collapse -->
-	  </div> <!-- /container -->
-    </nav> <!-- /navbar -->
-
-	<div class="jumbotron" id="overview">
-	  <div class="container">
-		<h1><a href="http://www.satyaakam.net/">Satyakam.net</a></h1>
-		<p class="lead">Learning and Living</p>
-	  </div>
-	</div>
-
-    <div class="container" id="main-container">
-      <div class="row">
-        <div class="col-md-9" id="content">
-    <article>
-<abbr class="article-header-date">
-  Mon 24 August 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/congrats-to-everyone-adempiere-10000-commits-within-first-year.html" rel="bookmark"
-     title="Permalink to Congrats to Everyone @ Adempiere 10,000 Commits Within Three Years!!!">
-    Congrats to Everyone @ Adempiere 10,000 Commits Within Three Years!!!
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/adempiere-contributions-event-foss.html">
-      Adempiere, contributions, Event, FOSS</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>Verbatim Mail from Carlos ....</p>
-<p>Hi community,</p>
-<div class="line-block">
-<div class="line">Fifteen days before the third anniversary of our repository, this
-project arrived</div>
-<div class="line-block">
-<div class="line">to the commit 10.000, and Trifon had the honor to make it:</div>
-<div class="line"><a class="reference external" href="http://adempiere.svn.sourceforge.net/adempiere/?rev=10000&amp;view=rev">http://adempiere.svn.sourceforge.net/adempiere/?rev=10000&amp;view=rev</a></div>
-</div>
-</div>
-<div class="line-block">
-<div class="line">Thanks to the 56 committers that have made this ...</div></div>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/congrats-to-everyone-adempiere-10000-commits-within-first-year.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
-
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Mon 24 August 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/olpc-katha-in-delhi.html" rel="bookmark"
-     title="Permalink to OLPC @ Katha in Delhi">
-    OLPC &#64; Katha in Delhi
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/foss-olpc-sugar.html">
-      FOSS, OLPC, Sugar</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>[youtube]http://www.youtube.com/watch?v=n57KOQZ27Iw[/youtube]</p>
-
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/olpc-katha-in-delhi.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
-
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Fri 14 August 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/olpc-boot-sequence.html" rel="bookmark"
-     title="Permalink to OLPC boot sequence">
-    OLPC boot sequence
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/foss-olpc-sugar.html">
-      FOSS, OLPC, Sugar</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>Tried booting <a class="reference external" href="http://laptop.org">OLPC</a> from USB , OLPC has a
+              <a href="http://www.satyaakam.net/tag/olpc.html">OLPC</a>,              <a href="http://www.satyaakam.net/tag/xo.html">XO</a>
+    </p>
+  </header>
+  <div>
+      <p>Tried booting <a class="reference external" href="http://laptop.org">OLPC</a> from USB , OLPC has a
 security feature to not boot from external devices by default , it comes
 with a security lock , we can remove this by</p>
 <div class="line-block">
@@ -168,90 +85,73 @@ with a security lock , we can remove this by</p>
 </div>
 </div>
 <p>The idea is to boot from USB device and run Ubuntu from ...</p>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/olpc-boot-sequence.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/olpc-boot-sequence.html#olpc-boot-sequence">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/adempiere-asterisk-and-ekiga.html#adempiere-asterisk-and-ekiga">Adempiere , Asterisk and Ekiga</a></h2>
+    <p>
+          Posted on Mon 08 June 2009 in <a href="http://www.satyaakam.net/category/adempiere-ekiga-sip.html">Adempiere, Ekiga, Sip</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Mon 08 June 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/adempiere-asterisk-and-ekiga.html" rel="bookmark"
-     title="Permalink to Adempiere , Asterisk and Ekiga">
-    Adempiere , Asterisk and Ekiga
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/adempiere-ekiga-sip.html">
-      Adempiere, Ekiga, Sip</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p><a class="reference external" href="http://www.mikejudd.com/">Michael Judd</a> setup an asterisk system for
+
+          &#8226;     Tagged with
+
+              <a href="http://www.satyaakam.net/tag/sip.html">Sip</a>,              <a href="http://www.satyaakam.net/tag/voip.html">Voip</a>
+    </p>
+  </header>
+  <div>
+      <p><a class="reference external" href="http://www.mikejudd.com/">Michael Judd</a> setup an asterisk system for
 <a class="reference external" href="http://www.adempiere.org">adempiere</a> community to use. once the
 accounts for people are created you can access it using a voip softphone
 or a hard phone.</p>
 <p>With the service we can currently conference, and call extensions for
 free. Mike have the servers located in data centre ...</p>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/adempiere-asterisk-and-ekiga.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/adempiere-asterisk-and-ekiga.html#adempiere-asterisk-and-ekiga">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/pythonstartup-profile.html#pythonstartup-profile">PYTHONSTARTUP == .profile</a></h2>
+    <p>
+          Posted on Thu 04 June 2009 in <a href="http://www.satyaakam.net/category/python-tips.html">python, tips</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Thu 04 June 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/pythonstartup-profile.html" rel="bookmark"
-     title="Permalink to PYTHONSTARTUP == .profile">
-    PYTHONSTARTUP == .profile
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/python-tips.html">
-      python, tips</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>When you use Python interactively, it is frequently handy to have some
+
+          &#8226;     Tagged with
+
+              <a href="http://www.satyaakam.net/tag/python.html">python</a>
+    </p>
+  </header>
+  <div>
+      <p>When you use Python interactively, it is frequently handy to have some
 standard commands executed every time the interpreter is started. You
 can do this by setting an environment variable named PYTHONSTARTUP to
 the name of a file containing your start-up commands. This is similar to
 the .profile feature of ...</p>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/pythonstartup-profile.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/pythonstartup-profile.html#pythonstartup-profile">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/git-vs-svn.html#git-vs-svn">GIT vs SVN</a></h2>
+    <p>
+          Posted on Fri 29 May 2009 in <a href="http://www.satyaakam.net/category/adempiere-foss-scm.html">Adempiere, FOSS, SCM</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Fri 29 May 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/git-vs-svn.html" rel="bookmark"
-     title="Permalink to GIT vs SVN">
-    GIT vs SVN
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/adempiere-foss-scm.html">
-      Adempiere, FOSS, SCM</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<div class="line-block">
+
+
+    </p>
+  </header>
+  <div>
+      <div class="line-block">
 <div class="line">Red1 asked on the Adempiere forum is shifting to GIT from SVN a good
 idea , i think it is here is why?</div>
 <div class="line-block">
@@ -260,323 +160,184 @@ more on <a class="reference external" href="http://whygitisbetterthanx.com/">why
 </div>
 </div>
 
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/git-vs-svn.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/git-vs-svn.html#git-vs-svn">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/nominate-adempiere-for-best-community-project-award.html#nominate-adempiere-for-best-community-project-award">Nominate Adempiere for Best Community Project Award</a></h2>
+    <p>
+          Posted on Mon 11 May 2009 in <a href="http://www.satyaakam.net/category/adempiere.html">Adempiere</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Mon 11 May 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/nominate-adempiere-for-best-community-project-award.html" rel="bookmark"
-     title="Permalink to Nominate Adempiere for Best Community Project Award">
-    Nominate Adempiere for Best Community Project Award
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/adempiere.html">
-      Adempiere</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>Show your support for the FOSS projects you use and love by nominating
+
+
+    </p>
+  </header>
+  <div>
+      <p>Show your support for the FOSS projects you use and love by nominating
 them for SourceForge.net Community Choice Awards.</p>
 <p><a class="reference external" href="http://sourceforge.net/community/cca09/nominate/?project_name=ADempiere%20ERP%20Business%20Suite&amp;project_url=http://sourceforge.net/projects/adempiere/"><img alt="image0" src="http://sourceforge.net/images/cca/cca_nominate.png" /></a></p>
 
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/nominate-adempiere-for-best-community-project-award.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/nominate-adempiere-for-best-community-project-award.html#nominate-adempiere-for-best-community-project-award">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/upgrade-to-904-ubuntu-from-810.html#upgrade-to-904-ubuntu-from-810">Upgrade to 9.04 Ubuntu from 8.10</a></h2>
+    <p>
+          Posted on Sat 09 May 2009 in <a href="http://www.satyaakam.net/category/ubuntu.html">Ubuntu</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Sat 09 May 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/upgrade-to-904-ubuntu-from-810.html" rel="bookmark"
-     title="Permalink to Upgrade to 9.04 Ubuntu from 8.10">
-    Upgrade to 9.04 Ubuntu from 8.10
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/ubuntu.html">
-      Ubuntu</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>Resisted the upgrade for long since i got reports of network and sound
+
+          &#8226;     Tagged with
+
+              <a href="http://www.satyaakam.net/tag/ubuntu.html">Ubuntu</a>
+    </p>
+  </header>
+  <div>
+      <p>Resisted the upgrade for long since i got reports of network and sound
 cards not working properly&nbsp; with Jaunty , i took the alternative cd
 route to upgrade. As expected my sound card stopped working&nbsp; added this
 line to make it work</p>
 <p>/etc/modprobe.d/alsa-base.conf</p>
 <p>options snd-hda-intel model=hp-m4 ...</p>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/upgrade-to-904-ubuntu-from-810.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/upgrade-to-904-ubuntu-from-810.html#upgrade-to-904-ubuntu-from-810">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/chennai-here-i-come.html#chennai-here-i-come">Chennai here i come</a></h2>
+    <p>
+          Posted on Tue 10 March 2009 in <a href="http://www.satyaakam.net/category/event-foss-personal.html">Event, FOSS, Personal</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Tue 10 March 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/chennai-here-i-come.html" rel="bookmark"
-     title="Permalink to Chennai here i come">
-    Chennai here i come
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/event-foss-personal.html">
-      Event, FOSS, Personal</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p>Well going down south is always a homely feeling , i will be present on
+
+          &#8226;     Tagged with
+
+              <a href="http://www.satyaakam.net/tag/events.html">Events</a>
+    </p>
+  </header>
+  <div>
+      <p>Well going down south is always a homely feeling , i will be present on
 panel at <a class="reference external" href="http://osidays.com">osidays.com</a> will try to report more
 about the event from <a class="reference external" href="http://en.wikipedia.org/wiki/Chennai">Chennai</a>.</p>
 
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/chennai-here-i-come.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/chennai-here-i-come.html#chennai-here-i-come">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/delhi-drupal-meetup.html#delhi-drupal-meetup">Delhi Drupal meetup</a></h2>
+    <p>
+          Posted on Mon 02 March 2009 in <a href="http://www.satyaakam.net/category/event-foss.html">Event, FOSS</a>
 
-    <hr />
-    <article>
-<abbr class="article-header-date">
-  Mon 02 March 2009
-</abbr> <h1>
-  <a href="http://www.satyaakam.net/delhi-drupal-meetup.html" rel="bookmark"
-     title="Permalink to Delhi Drupal meetup">
-    Delhi Drupal meetup
-  </a>
-</h1><div class="article-header-info">
-  <p>
-      Posted by <a href="http://www.satyaakam.net/author/satya.html">satya</a>
-    in 
-    <a href="http://www.satyaakam.net/category/event-foss.html">
-      Event, FOSS</a>
-    &nbsp;&nbsp;
-  </p>
-</div> <!-- /.article-header-info -->  
-      <div class="summary">
-		<p><a class="reference external" href="%20http://www.lug-iitd.org/Delhi_Drupal_Meetup">Delhi Drupal meetup</a>
+
+
+    </p>
+  </header>
+  <div>
+      <p><a class="reference external" href="%20http://www.lug-iitd.org/Delhi_Drupal_Meetup">Delhi Drupal meetup</a>
 aka #ddm happened as a typical community event , others pitched in to
 contribute , learn and win some prizes . Overall there was lots of fun
 at the end of the day. Energy levels were high apart from the well known
 names the surprise part to the event were ...</p>
-		<p class="content-emphasis"><a href="http://www.satyaakam.net/delhi-drupal-meetup.html">
-			Read more... <i class="fa fa-arrow-circle-right fa-fw fa-lg"></i> 
-		</a></p>
-      </div>    </article>
-
-    <hr />
-
-<nav class="index-pager">
-	<ul class="pagination">
-		<li class="prev">
-		  <a href="http://www.satyaakam.net/index3.html">
-			<i class="fa fa-chevron-circle-left fa-fw fa-lg"></i> Previous
-		  </a>
-		</li>
-
-        <li>
-          <a href="http://www.satyaakam.net/index.html">1</a>
-        </li>
-        <li>
-          <a href="http://www.satyaakam.net/index2.html">2</a>
-        </li>
-        <li>
-          <a href="http://www.satyaakam.net/index3.html">3</a>
-        </li>
-        <li class="active"> <span>4</span> </li>
-        <li>
-          <a href="http://www.satyaakam.net/index5.html">5</a>
-        </li>
-
-		<li class="next">
-		  <a href="http://www.satyaakam.net/index5.html">
-			Next <i class="fa fa-chevron-circle-right fa-fw fa-lg"></i>
-		  </a>
-		</li>
-	</ul>
-
-</nav> <!-- /index-pager -->
-        </div><!-- /content -->
-
-        <div class="col-md-3 sidebar-nav" id="sidebar">
-
-<div class="row">
-
-<div class="col-xs-6 col-md-12">
-<h4><i class="fa fa-comment fa-fw fa-lg"></i> Social</h4>
-<ul class="list-unstyled social-links">
-    <li><a href="http://plus.google.com/satyaakam" target="_blank">
-	  <i class="fa fa-google-plus-square fa-fw fa-lg" title="Google+"></i>
-		Google+
-	</a></li>
-    <li><a href="https://twitter.com/satyaakam" target="_blank">
-	  <i class="fa fa-twitter-square fa-fw fa-lg" title="Twitter"></i>
-		Twitter
-	</a></li>
-    <li><a href="https://www.linkedin.com/in/satyaakam" target="_blank">
-	  <i class="fa fa-linkedin-square fa-fw fa-lg" title="LinkedIn"></i>
-		LinkedIn
-	</a></li>
-    <li><a href="http://bitbucket.org/satyaakam" target="_blank">
-	  <i class="fa fa-bitbucket-square fa-fw fa-lg" title="BitBucket"></i>
-		BitBucket
-	</a></li>
-    <li><a href="http://github.com/satyaakam" target="_blank">
-	  <i class="fa fa-github-square fa-fw fa-lg" title="GitHub"></i>
-		GitHub
-	</a></li>
-</ul>
-</div>
-
-<div class="col-xs-6 col-md-12">
-<h4><i class="fa fa-folder fa-fw fa-lg"></i> Categories</h4>
-<ul class="list-unstyled category-links">
-  <li><a href="http://www.satyaakam.net/category/adempiere.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Adempiere</a></li>
-  <li><a href="http://www.satyaakam.net/category/adempiere-contribute-contributions-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Adempiere, Contribute, contributions, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/adempiere-contributions-event-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Adempiere, contributions, Event, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/adempiere-ekiga-sip.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Adempiere, Ekiga, Sip</a></li>
-  <li><a href="http://www.satyaakam.net/category/adempiere-foss-scm.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Adempiere, FOSS, SCM</a></li>
-  <li><a href="http://www.satyaakam.net/category/android-eclipse-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Android, Eclipse, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/benq-foss-netbook-ubuntu.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Benq, FOSS, Netbook, Ubuntu</a></li>
-  <li><a href="http://www.satyaakam.net/category/cloud-community-contribute-contributions-eucalyptus-foss-gis-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Cloud, community, Contribute, contributions, Eucalyptus, FOSS, GIS, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/cloud-community-contribute-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Cloud, community, Contribute, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-fossacademy-python-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, fossacademy, python, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-fossacademy-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, fossacademy, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-gis-hackathon-opendata-python.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, GIS, hackathon, Opendata, python</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-hackathon-opendata-personal-privacy-python-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, hackathon, Opendata, Personal, privacy, python, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-netbook-olpc-sugar-xo.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, Netbook, OLPC, Sugar, XO</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-personal-social-xo.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, Personal, social, XO</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-contributions-foss-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, contributions, FOSS, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-event-foss-social-uncategorized.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, Event, FOSS, social, Uncategorized</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contribute-foss-social-uncategorized.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Contribute, FOSS, social, Uncategorized</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-contributions-foss-fossacademy.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, contributions, FOSS, fossacademy</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-education-foss-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, Education, FOSS, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-foss-fossacademy-python.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, FOSS, fossacademy, python</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-foss-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, FOSS, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/community-hackathon-opendata-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> community, hackathon, Opendata, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/contribute-education-fossacademy.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Contribute, Education, fossacademy</a></li>
-  <li><a href="http://www.satyaakam.net/category/contribute-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Contribute, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/contribute-foss-ubuntu.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Contribute, FOSS, Ubuntu</a></li>
-  <li><a href="http://www.satyaakam.net/category/contributions-foss-workshop.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> contributions, FOSS, workshop</a></li>
-  <li><a href="http://www.satyaakam.net/category/event.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Event</a></li>
-  <li><a href="http://www.satyaakam.net/category/event-foss.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Event, FOSS</a></li>
-  <li><a href="http://www.satyaakam.net/category/event-foss-personal.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Event, FOSS, Personal</a></li>
-  <li><a href="http://www.satyaakam.net/category/foss-olpc-sugar.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> FOSS, OLPC, Sugar</a></li>
-  <li><a href="http://www.satyaakam.net/category/foss-uncategorized.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> FOSS, Uncategorized</a></li>
-  <li><a href="http://www.satyaakam.net/category/hackathon-opendata-social.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> hackathon, Opendata, social</a></li>
-  <li><a href="http://www.satyaakam.net/category/misc.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> misc</a></li>
-  <li><a href="http://www.satyaakam.net/category/python-tips.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> python, tips</a></li>
-  <li><a href="http://www.satyaakam.net/category/trip.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> trip</a></li>
-  <li><a href="http://www.satyaakam.net/category/ubuntu.html" >
-    <i class="fa fa-folder-open fa-fw fa-lg"></i> Ubuntu</a></li>
-</ul>
-</div>
-
-</div> <!-- /row -->
-
-<h4><i class="fa fa-link fa-fw fa-lg"></i> Links</h4>
-<ul class="list-unstyled category-links">
-  <li><a href=http://getpelican.com/ >
-    <i class="fa fa-fw fa-external-link-square fa-lg"></i> Pelican</a></li>
-  <li><a href=http://python.org/ >
-    <i class="fa fa-fw fa-external-link-square fa-lg"></i> Python.org</a></li>
-  <li><a href=http://jinja.pocoo.org/ >
-    <i class="fa fa-fw fa-external-link-square fa-lg"></i> Jinja2</a></li>
-  <li><a href=# >
-    <i class="fa fa-fw fa-external-link-square fa-lg"></i> You can modify those links in your config file</a></li>
-</ul>
-
-<h4><i class="fa fa-tags fa-fw fa-lg"></i> Tags</h4>
-<p class="tag-cloud">
-</p>
-
-<h4><i class="fa fa-rss fa-fw fa-lg"></i> Feeds</h4>
-<ul class="list-unstyled">
-    <li><a href="http://www.satyaakam.net/feeds/all.atom.xml" 
-		   type="application/atom+xml" rel="alternate">
-		<i class="fa fa-rss-square fa-fw fa-lg"></i> Atom Feed</a></li>
-</ul>
-
-<hr />
-
-        </div><!--/sidebar -->
-      </div><!--/row-->
-    </div><!--/.container /#main-container -->
-
-    <footer id="site-footer">
- 
-      <address id="site-colophon">
-        <p class="text-center text-muted">
-        Site built using <a href="http://getpelican.com/" target="_blank">Pelican</a>
-        &nbsp;&bull;&nbsp; Theme based on
-        <a href="http://www.voidynullness.net/page/voidy-bootstrap-pelican-theme/"
-           target="_blank">VoidyBootstrap</a> by 
-        <a href="http://www.robertiwancz.com/"
-           target="_blank">RKI</a>  
-        </p>
-      </address><!-- /colophon  -->
-    </footer>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/delhi-drupal-meetup.html#delhi-drupal-meetup">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/change-is-certain-what-about-you.html#change-is-certain-what-about-you">Change is certain what about you!</a></h2>
+    <p>
+          Posted on Mon 23 February 2009 in <a href="http://www.satyaakam.net/category/event-foss-personal.html">Event, FOSS, Personal</a>
 
 
-    <!-- javascript -->
-   
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    </p>
+  </header>
+  <div>
+      <p>After attending the #WCI met and heard many pro bloggers and developers
+from the field of blogging , the guy who really was impressive was OM of
+<a class="reference external" href="http://giagaom.com">gigaom</a> fame. He was too good after listening to
+him and learning from his kind words i have decided to change the line
+on ...</p>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/change-is-certain-what-about-you.html#change-is-certain-what-about-you">    Continue reading
+</a>
+  </div>
+  <hr />
+</article>
+<article>
+  <header>
+    <h2><a href="http://www.satyaakam.net/hello-world-2.html#hello-world-2">Hello World!!</a></h2>
+    <p>
+          Posted on Sun 15 February 2009 in <a href="http://www.satyaakam.net/category/event.html">Event</a>
 
 
-  </body>
+
+    </p>
+  </header>
+  <div>
+      <p>` &lt;<a class="reference external" href="http://images.eventbrite.com/logos/278261287.jpg">http://images.eventbrite.com/logos/278261287.jpg</a>&gt;`__</p>
+<p>[caption id=&quot;&quot; align=&quot;alignright&quot; width=&quot;311&quot; caption=&quot;WordCamp India,
+(India's first WordPress Camp), 21st, 22nd Feb, Delhi&quot;]<a class="reference external" href="http://wci.eventbrite.com/"><img alt="WordCamp India, (Indias first WordPress Camp), 21st, 22nd Feb, Delhi" src="http://images.eventbrite.com/logos/278261287.jpg" /></a>[/caption]</p>
+<p>After yesterday's late night Hackfest
+<a class="reference external" href="https://trac.sahanapy.org/wiki/FOSSkriti">FOSSkriti</a> , I was feeling
+all drowsy Blogging definetly was not on my plate for the day !!! Thanks ...</p>
+      <br>
+      <a class="btn" href="http://www.satyaakam.net/hello-world-2.html#hello-world-2">    Continue reading
+</a>
+  </div>
+</article>
+
+  <div class="pagination">
+    <a class="btn float-right" href="http://www.satyaakam.net/index3.html">
+          Newer Posts
+ <i class="fa fa-angle-right"></i>
+    </a>
+  </div>
+
+    <footer>
+<p>&copy; Satyakam Goswami </p>
+<p>    Powered by <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme by <a href="http://alexandrevicenzi.com" target="_blank">Alexandre Vicenzi</a>
+</p>    </footer>
+  </main>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7511316-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Satyaakam.net ",
+  "url" : "http://www.satyaakam.net",
+  "image": "",
+  "description": ""
+}
+</script>
+</body>
 </html>
