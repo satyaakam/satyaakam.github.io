@@ -22,11 +22,10 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 #Variable to set Theme
-THEME = './voidy-bootstrap'
+THEME = './Flex'
 
 SITESUBTITLE ='Learning and Living'
 SITETAG = "Satyaakam.net"
@@ -41,16 +40,11 @@ CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 # Default sidebar template. Omit this line for single column mode without sidebar.
 SIDEBAR = "sidebar.html"
 
-SOCIAL = (('Google+', 'http://plus.google.com/satyaakam',
-         'fa fa-google-plus-square fa-fw fa-lg'),
-        ('Twitter', 'https://twitter.com/satyaakam',
-         'fa fa-twitter-square fa-fw fa-lg'),
-        ('LinkedIn', 'https://www.linkedin.com/in/satyaakam',
-         'fa fa-linkedin-square fa-fw fa-lg'),
-        ('BitBucket', 'http://bitbucket.org/satyaakam',
-         'fa fa-bitbucket-square fa-fw fa-lg'),
-        ('GitHub', 'http://github.com/satyaakam',
-         'fa fa-github-square fa-fw fa-lg'),
+SOCIAL = (('Google+', 'http://plus.google.com/satyaakam'),
+        ('Twitter', 'https://twitter.com/satyaakam'),
+        ('LinkedIn', 'https://www.linkedin.com/in/satyaakam'),
+        ('BitBucket', 'http://bitbucket.org/satyaakam'),
+        ('GitHub', 'http://github.com/satyaakam'),
         )
 
 DEFAULT_PAGINATION = 10
