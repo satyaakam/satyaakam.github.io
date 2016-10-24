@@ -6,11 +6,10 @@ Hello World!!
 :slug: hello-world-2
 :status: published
 
-` <http://images.eventbrite.com/logos/278261287.jpg>`
+.. |WordCamp India, (Indias first WordPress Camp), 21st, 22nd Feb, Delhi| image:: http://images.eventbrite.com/logos/278261287.jpg
+   :target: http://wci.eventbrite.com/
 
-[caption id="" align="alignright" width="311" caption="WordCamp India,
-(India's first WordPress Camp), 21st, 22nd Feb, Delhi"]\ |WordCamp
-India, (Indias first WordPress Camp), 21st, 22nd Feb, Delhi|\ [/caption] 
+|WordCamp India, (Indias first WordPress Camp), 21st, 22nd Feb, Delhi|
 
 After yesterday's late night Hackfest
 `FOSSkriti <https://trac.sahanapy.org/wiki/FOSSkriti>`__ , I was feeling
@@ -21,6 +20,3 @@ in half an hour flat. To add to the motivation factor registered with
 `[STRIKEOUT:First Word Press Conference] WordCamp India, (India's first
 WordPress Camp), <http://wci.eventbrite.com/>`__ i am looking forward to
 learn from Pros , what a way to start awesome !!!
-
-.. |WordCamp India, (Indias first WordPress Camp), 21st, 22nd Feb, Delhi| image:: http://images.eventbrite.com/logos/278261287.jpg
-   :target: http://wci.eventbrite.com/
