@@ -24,25 +24,26 @@ National Resource Centre for Free/Open Source Software (NRCFOSS) is
 a multi­institutional Project funded by the Dept. of Inf. Tech., Ministry of Comm. & Inf. Tech., Government of India ­ http://nrcfoss.org.in/. This workshop is being organised jointly with NRCFOSS at AU­KBC Research Centre, Anna University Chennai – http://nrcfoss.au­kbc.org.in/
 
  DAY 1: 14/4/10
-  9.30 – 11.00 Session I
+  9.30 – 11.00 
+  
+  Session I
   Session Title : Inauguration
   Venue Type : Seminar Hall
   No. of Participants : Around 100
   11.00 – 11.20 Tea
   11.30 – 1.00 – Session II (Combined)
+  
   Session Title : Use of Linux Desktop & OpenOffice
   Venue Type : Computer Lab
   Requirements : Lab with 100 seats and systems with CD/DVD drives,
- Projector & white
-  board.
+ Projector & whiteboard.
   No. of Participants : Around 100
   1.00 – 2.00 Lunch
   2.00 – 3.15 - Session III (Combined)
   Session Title : Linux Installation
   Venue Type : Computer Lab
   Requirements : Lab with 100 seats and systems with CD/DVD drives,
- Projector &
-  white board.
+ Projector & white board.
   No. of Participants : Around 100
   3.30 – 5.00 - Session IV (5 parallel sessions [maths,phy,chem,Bio &
  Comp.Sci)
