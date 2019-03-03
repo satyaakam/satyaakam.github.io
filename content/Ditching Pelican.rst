@@ -7,4 +7,4 @@ Ditching Pelican
 :slug:
 :status: published
 
-Will be testing Medium for a while since i am not updating the pelican based site that much lets see how this experiment goes you can read more stories here https://medium.com/@satyaakam
+Will be testing Medium for a while since i am not updating the pelican based site that much lets see how this experiment goes you can read more stories here https://medium.com/@satyakam.dev
