@@ -18,7 +18,7 @@ Who is a FOSS contributor and how her/his life should be celebrated
 
     << A NEW CONSTITUTION >>
 
-    **Information Is Free **... U HAVE 2 KNOW
+    **Information Is Free **... U HAVE 2 KNOW**
 
     People Are Not ... U HAVE 2 PAY
 

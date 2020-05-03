@@ -7,20 +7,14 @@ Newcomer experience and contributor behavior in FOSS communities
 :slug: newcomer-experience-and-contributor-behavior-in-foss-communities
 :status: published
 
-`Kevin Carillo <http://kevincarillo.org/>`__ has come out with a Survey
-to measure Newcomer experience for people who have  joined and any  of
-the \ **Debian, FreeBSD (including PC-BSD), GNOME,
-Gentoo, \ **KDE, **\ Mozilla, Ubuntu, NetBSD, or OpenSUSE ** in last
-three years.
+Kevin Carillo: http://kevincarillo.org/  has come out with a Survey to measure Newcomer experience for people who have  joined and any  of
+the Debian, FreeBSD (including PC-BSD), GNOME, Gentoo, KDE, Mozilla, Ubuntu, NetBSD, or OpenSUSE** in last three years.
 
 The survey is available
-`here <https://limesurvey.sim.vuw.ac.nz/index.php?sid=65151&lang=en>`__ ,The
-good thing about this survey is it is all anonymous and the Data will be
+.. _here: https://limesurvey.sim.vuw.ac.nz/index.php?sid=65151&lang=en  the good ood thing about this survey is it is all anonymous and the Data will be
 shared in open
 
-Here are the latest result of
-his\ `Survey <http://kevincarillo.org/2012/11/15/survey-update-after-1-week/%20>`__ after
-one week of this survey going public.
+Here are the latest result of his\ `Survey <http://kevincarillo.org/2012/11/15/survey-update-after-1-week/%20>`__ after one week of this survey going public.
 
 On one side Students with  Formal Education in Schools and Colleges
 complain about the  not getting jobs and on the other side the system
