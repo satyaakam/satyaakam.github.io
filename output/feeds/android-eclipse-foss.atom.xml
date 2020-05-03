@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - Android, Eclipse, FOSS</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/android-eclipse-foss.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2011-10-21T21:57:00+02:00</updated><entry><title>Eclipse and ADT plugin</title><link href="https://www.satyaakam.net/eclipse-and-adt-plugin.html" rel="alternate"></link><published>2011-10-21T21:57:00+02:00</published><updated>2011-10-21T21:57:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2011-10-21:/eclipse-and-adt-plugin.html</id><summary type="html">&lt;p&gt;Eclipse 3.6.2 which come with Fedora does play well with &lt;a class="reference external" href="https://developer.android.com/sdk/eclipse-adt.html#installing"&gt;ADT
+plugin&lt;/a&gt;
+, it gives the following errors&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Cannot complete the install because one or more required items could
+not be found.&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Software being installed: Android Development Tools
+0.9.9.v201009221407-60953 (com.android.ide.eclipse.adt.feature.group …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Eclipse 3.6.2 which come with Fedora does play well with &lt;a class="reference external" href="https://developer.android.com/sdk/eclipse-adt.html#installing"&gt;ADT
+plugin&lt;/a&gt;
+, it gives the following errors&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Cannot complete the install because one or more required items could
+not be found.&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Software being installed: Android Development Tools
+0.9.9.v201009221407-60953 (com.android.ide.eclipse.adt.feature.group
+0.9.9.v201009221407-60953)&lt;/div&gt;
+&lt;div class="line"&gt;Missing requirement: Android Development Tools
+0.9.9.v201009221407-60953 (com.android.ide.eclipse.adt.feature.group
+0.9.9.v201009221407-60953) requires 'org.eclipse.wst.sse.core 0.0.0'
+but it could not be found&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;you can get over it by following these steps&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Select Help &amp;gt; Install New Software...&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Click the link for Available Software Sites.&lt;/div&gt;
+&lt;div class="line"&gt;Ensure there is an update site named Helios. If this is not present,
+click Add... and enter &lt;a class="reference external" href="https://download.eclipse.org/releases/helios"&gt;https://download.eclipse.org/releases/helios&lt;/a&gt; for
+the Location.&lt;/div&gt;
+&lt;div class="line"&gt;Now go through the installation steps; Eclipse should download and
+install the plugin's dependencies.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Android, Eclipse, FOSS"></category></entry></feed>

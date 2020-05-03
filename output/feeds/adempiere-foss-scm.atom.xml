@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - Adempiere, FOSS, SCM</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/adempiere-foss-scm.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2009-05-29T00:44:00+02:00</updated><entry><title>GIT vs SVN</title><link href="https://www.satyaakam.net/git-vs-svn.html" rel="alternate"></link><published>2009-05-29T00:44:00+02:00</published><updated>2009-05-29T00:44:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-05-29:/git-vs-svn.html</id><content type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Red1 asked on the Adempiere forum is shifting to GIT from SVN a good
+idea , i think it is here is why?&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;strong&gt;local , distributed, branched ,small , fast, staging area&lt;/strong&gt;.....
+more on &lt;a class="reference external" href="https://whygitisbetterthanx.com/"&gt;whygitisbetterthanx&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Adempiere, FOSS, SCM"></category></entry></feed>

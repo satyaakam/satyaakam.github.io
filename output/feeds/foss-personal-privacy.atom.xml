@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - FOSS, Personal, privacy</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/foss-personal-privacy.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2010-05-18T10:41:00+02:00</updated><entry><title>Whats on your Mind ?</title><link href="https://www.satyaakam.net/whats-on-your-mind.html" rel="alternate"></link><published>2010-05-18T10:41:00+02:00</published><updated>2010-05-18T10:41:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2010-05-18:/whats-on-your-mind.html</id><summary type="html">&lt;p&gt;Ok i decided to change title of my blog from &amp;quot;Free and &amp;nbsp;Open Source &amp;quot; to
+&amp;nbsp;&amp;quot;whats on your mind&amp;quot; yes the first one was good focussed one &amp;nbsp;on &amp;nbsp;one
+topic but i felt and &amp;nbsp;that what i do is more than just FOSS. &amp;nbsp;This gives
+me the freedom to write …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ok i decided to change title of my blog from &amp;quot;Free and &amp;nbsp;Open Source &amp;quot; to
+&amp;nbsp;&amp;quot;whats on your mind&amp;quot; yes the first one was good focussed one &amp;nbsp;on &amp;nbsp;one
+topic but i felt and &amp;nbsp;that what i do is more than just FOSS. &amp;nbsp;This gives
+me the freedom to write here instead of places like Facebook&amp;nbsp; or Twitter
+or Identi.ca . Ok whats on the plate to start with the new title &amp;quot;whats
+on your mind &amp;quot; yes you got it right its been flicked from Facebook ,
+thanks to there policy changes they were&amp;nbsp; in News for past few&amp;nbsp; weeks&amp;nbsp; ,
+actually i really like it &amp;nbsp;so does so many of millions of &amp;nbsp;Facebook Fans
+.&lt;/p&gt;
+&lt;p&gt;i started digging and try to find out the social maps which exists and
+the&amp;nbsp; connections i can see , obviously FB was the tool of choice to
+begin with i hit upon my first search with
+&lt;a class="reference external" href="https://apps.facebook.com/_nexus_/"&gt;Nexus&lt;/a&gt; which has shut down ;-( ,
+but it gave me enough apps using which i can do pretty much what i
+wanted here are the list of applications on Facebook which mapped social
+connections not only they did that they were digging more into the
+connections.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.facebook.com/apps/application.php?id=3267890192"&gt;Touch
+Graph&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://bit.ly/cgFXNa"&gt;NamegenWeb&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://bit.ly/aVJ4OL"&gt;Friedn Wheel&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;i am sure there are more ways to dig in with the &lt;a class="reference external" href="https://developers.facebook.com/docs/api"&gt;Graph
+API&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For all those people who are afraid after seeing the web of connections
+and having privacy concern there is no straighforward way to deactivate
+your Facebook account , deactivating actually does not help you in
+deleting all the data , to actually wipe all the info you need to go to
+this link &lt;a class="reference external" href="https://ssl.facebook.com/help/contact.php?show_form=delete_account"&gt;Delete Facebook account&lt;/a&gt;
+for all the other folks who do not want to delete the account here is a
+scanner to test your &lt;a class="reference external" href="https://www.reclaimprivacy.org/facebook"&gt;reclaimprivacy&lt;/a&gt; privacy
+setting on Facebook.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;nice reads on this topic&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.eff.org/deeplinks/2010/04/facebook-further-reduces-control-over-personal-information"&gt;eff link
+1&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.eff.org/deeplinks/2009/12/facebooks-new-privacy-changes-good-bad-and-ugly"&gt;eff link
+2&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="%20https://finance.yahoo.com/family-home/article/109538/7-things-to-stop-doing-now-on-facebook"&gt;yahoo
+link&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.wired.com/epicenter/2010/05/facebook-rogue/"&gt;wired.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.quitfacebookday.com/"&gt;Quitfacebookday&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="FOSS, Personal, privacy"></category><category term="facebook"></category><category term="privacy"></category></entry></feed>

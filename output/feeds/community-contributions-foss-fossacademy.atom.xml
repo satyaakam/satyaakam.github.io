@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - community, contributions, FOSS, fossacademy</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/community-contributions-foss-fossacademy.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2011-10-18T20:07:00+02:00</updated><entry><title>Fossacademy to do list</title><link href="https://www.satyaakam.net/fossacademy-to-do-list.html" rel="alternate"></link><published>2011-10-18T20:07:00+02:00</published><updated>2011-10-18T20:07:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2011-10-18:/fossacademy-to-do-list.html</id><summary type="html">&lt;p&gt;For those of who do not know &lt;a class="reference external" href="https://fossacademy.org"&gt;Fossacademy&lt;/a&gt; is
+a going to be a remix site of &lt;a class="reference external" href="https://khanacademy.org"&gt;Khanacademy&lt;/a&gt; ,
+well after a long hiatus i was able to understand how app works in
+&lt;a class="reference external" href="https://code.google.com/appengine/"&gt;Google App Engine&lt;/a&gt;, here is a
+list of things to do let me know if anyone wants to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;For those of who do not know &lt;a class="reference external" href="https://fossacademy.org"&gt;Fossacademy&lt;/a&gt; is
+a going to be a remix site of &lt;a class="reference external" href="https://khanacademy.org"&gt;Khanacademy&lt;/a&gt; ,
+well after a long hiatus i was able to understand how app works in
+&lt;a class="reference external" href="https://code.google.com/appengine/"&gt;Google App Engine&lt;/a&gt;, here is a
+list of things to do let me know if anyone wants to work on this
+project.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;1)Create a logo.&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;2)Work on the theme.&lt;/div&gt;
+&lt;div class="line"&gt;3)Adding Videos other than Youtube.&lt;/div&gt;
+&lt;div class="line"&gt;4)Start working on making exercises.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Hope people will like the effort as usual send in your comments and
+critiques .&lt;/p&gt;
+</content><category term="community, contributions, FOSS, fossacademy"></category><category term="GAE"></category><category term="google app engine"></category></entry></feed>

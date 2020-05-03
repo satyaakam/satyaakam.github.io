@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - community, Contribute, contributions, FOSS</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/community-contribute-contributions-foss.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2012-03-23T02:02:00+01:00</updated><entry><title>Raxa JSS EMR how to contribute</title><link href="https://www.satyaakam.net/raxa-jss-emr-how-to-contribute.html" rel="alternate"></link><published>2012-03-23T02:02:00+01:00</published><updated>2012-03-23T02:02:00+01:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2012-03-23:/raxa-jss-emr-how-to-contribute.html</id><summary type="html">&lt;p&gt;For all those who are interested in Projects in the category
+&lt;a class="reference external" href="https://hfoss.org/"&gt;HFOSS&lt;/a&gt;Humanitarian Foss here is an opportunity
+to hack around and do your bit its fairly simple&lt;/p&gt;
+&lt;p&gt;We sometimes hang out in #raxa on Freenode (Chat here:
+&lt;a class="reference external" href="https://webchat.freenode.net/"&gt;https://webchat.freenode.net/&lt;/a&gt;).&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="../../github.com"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../../help.github.com"&gt;Github Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://git.wiki.kernel.org/articles/g/i/t/GitSvnCrashCourse_512d.html"&gt;Git... for people who know …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;For all those who are interested in Projects in the category
+&lt;a class="reference external" href="https://hfoss.org/"&gt;HFOSS&lt;/a&gt;Humanitarian Foss here is an opportunity
+to hack around and do your bit its fairly simple&lt;/p&gt;
+&lt;p&gt;We sometimes hang out in #raxa on Freenode (Chat here:
+&lt;a class="reference external" href="https://webchat.freenode.net/"&gt;https://webchat.freenode.net/&lt;/a&gt;).&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="../../github.com"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="../../help.github.com"&gt;Github Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://git.wiki.kernel.org/articles/g/i/t/GitSvnCrashCourse_512d.html"&gt;Git... for people who know
+SVN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fork a Github Repro &lt;a class="reference external" href="https://help.github.com/fork-a-repo/"&gt;https://help.github.com/fork-a-repo/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Send a Pull Request &lt;a class="reference external" href="https://help.github.com/send-pull-requests/"&gt;https://help.github.com/send-pull-requests/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View all of our developers' code which has been forked from Raxa-JSS:
+&lt;a class="reference external" href="https://github.com/Raxa/Raxa-JSS/network/members"&gt;https://github.com/Raxa/Raxa-JSS/network/members&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sencha (JavaScript framework)&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.sencha.com/touch/2-0/"&gt;Sencha Touch 2.0 (mobile) Official
+docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://miamicoder.com/category/tutorials/sencha-touch-tutorials/"&gt;Sencha
+Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://miamicoder.com/2011/writing-a-sencha-touch-application-part-1/"&gt;Writing a Sencha Touch 1.1
+Application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://miamicoder.com/2011/writing-a-sencha-touch-mvc-application/"&gt;Writing a Sencha Touch MVC
+Application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://miamicoder.com/2012/how-to-create-a-sencha-touch-2-app-part-1/"&gt;Writing a Sencha Touch 2.0
+Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.sencha.com/ext-js/4-0/"&gt;ExtJS (desktop) Official
+docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.sencha.com/learn/architecting-your-app-in-ext-js-4-part-1"&gt;Application Architecture in
+ExtJS4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;List of tutorials: &lt;a class="reference external" href="https://imwill.com/sencha-touch-tutorials/"&gt;https://imwill.com/sencha-touch-tutorials/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Videos&lt;ul&gt;
+&lt;li&gt;SenchaCon 2011: MVC in Depth Part 1 &lt;a class="reference external" href="https://vimeo.com/33311074"&gt;https://vimeo.com/33311074&lt;/a&gt;
+(Sencha 2)&lt;/li&gt;
+&lt;li&gt;SenchaCon 2011: MVC in Depth Part 2 &lt;a class="reference external" href="https://vimeo.com/33430731"&gt;https://vimeo.com/33430731&lt;/a&gt;
+(Sencha 2)&lt;/li&gt;
+&lt;li&gt;SenchaCon 2011: The Sencha Class System &lt;a class="reference external" href="https://vimeo.com/33437222"&gt;https://vimeo.com/33437222&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Jasmine (JavaScript testing)&lt;ul&gt;
+&lt;li&gt;Homepage &lt;a class="reference external" href="https://pivotal.github.com/jasmine/"&gt;https://pivotal.github.com/jasmine/&lt;/a&gt; and wiki
+&lt;a class="reference external" href="https://github.com/pivotal/jasmine/wiki"&gt;https://github.com/pivotal/jasmine/wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tutorial: &lt;a class="reference external" href="https://evanhahn.com/?p=181"&gt;https://evanhahn.com/?p=181&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Using Jasmine with Sencha:
+&lt;a class="reference external" href="https://docs.sencha.com/ext-js/4-0/#!/guide/testing"&gt;https://docs.sencha.com/ext-js/4-0/#!/guide/testing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="community, Contribute, contributions, FOSS"></category><category term="Contributions"></category><category term="Foss"></category><category term="Hack"></category><category term="HFOSS"></category><category term="JAVA"></category></entry></feed>

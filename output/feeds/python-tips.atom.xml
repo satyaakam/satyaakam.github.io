@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - python, tips</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/python-tips.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2009-06-04T14:20:00+02:00</updated><entry><title>PYTHONSTARTUP == .profile</title><link href="https://www.satyaakam.net/pythonstartup-profile.html" rel="alternate"></link><published>2009-06-04T14:20:00+02:00</published><updated>2009-06-04T14:20:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-06-04:/pythonstartup-profile.html</id><summary type="html">&lt;p&gt;When you use Python interactively, it is frequently handy to have some
+standard commands executed every time the interpreter is started. You
+can do this by setting an environment variable named PYTHONSTARTUP to
+the name of a file containing your start-up commands. This is similar to
+the .profile feature of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;When you use Python interactively, it is frequently handy to have some
+standard commands executed every time the interpreter is started. You
+can do this by setting an environment variable named PYTHONSTARTUP to
+the name of a file containing your start-up commands. This is similar to
+the .profile feature of the Unix shells.&lt;/p&gt;
+&lt;p&gt;This file is only read in interactive sessions, not when Python reads
+commands from a script, and not when /dev/tty is given as the explicit
+source of commands (which otherwise behaves like an interactive
+session). It is executed in the same namespace where interactive
+commands are executed, so that objects that it defines or imports can be
+used without qualification in the interactive session. You can also
+change the prompts sys.ps1 and sys.ps2 in this file.&lt;/p&gt;
+&lt;p&gt;If you want to read an additional start-up file from the current
+directory, you can program this in the global start-up file using code
+like if os.path.isfile('.pythonrc.py'): execfile('.pythonrc.py'). If you
+want to use the startup file in a script, you must do this explicitly in
+the script:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;import os&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;filename = os.environ.get('PYTHONSTARTUP')&lt;/div&gt;
+&lt;div class="line"&gt;if filename and os.path.isfile(filename):&lt;/div&gt;
+&lt;div class="line"&gt;execfile(filename)&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="python, tips"></category><category term="python"></category></entry></feed>

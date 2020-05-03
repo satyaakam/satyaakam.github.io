@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - community, hackathon, Opendata, social</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/community-hackathon-opendata-social.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2013-04-11T10:32:00+02:00</updated><entry><title>Title : 12th plan Hackathon a report</title><link href="https://www.satyaakam.net/12th-plan-hackathon-a-report.html" rel="alternate"></link><published>2013-04-11T10:32:00+02:00</published><updated>2013-04-11T10:32:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2013-04-11:/12th-plan-hackathon-a-report.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="https://planningcommission.nic.in/"&gt;Planning Commision&lt;/a&gt; in
+Collaboration with &lt;a class="reference external" href="https://www.nic.in/"&gt;NIC&amp;nbsp;&lt;/a&gt;&amp;nbsp;especially the
+&lt;a class="reference external" href="https://www.data.gov.in/"&gt;Data.gov.in&amp;nbsp;&lt;/a&gt;&amp;nbsp;Team&amp;nbsp;( which is &amp;nbsp;setup
+according to the
+&lt;a class="reference external" href="https://data.gov.in/sites/default/files/NDSAP_Implementation_Guidelines-2.0.pdf"&gt;NDSAP&lt;/a&gt;&amp;nbsp;guildelines)&amp;nbsp;&amp;nbsp;organized
+a Hackathon to hack the &lt;a class="reference external" href="https://12thplan.gov.in/"&gt;12th five year
+plan&amp;nbsp;&lt;/a&gt;&amp;nbsp;for those of who are not aware like
+most of us &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Five-Year_plans_of_India"&gt;Five years plans in
+India&lt;/a&gt;&amp;nbsp;are
+economic blueprints &amp;nbsp;from …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="https://planningcommission.nic.in/"&gt;Planning Commision&lt;/a&gt; in
+Collaboration with &lt;a class="reference external" href="https://www.nic.in/"&gt;NIC&amp;nbsp;&lt;/a&gt;&amp;nbsp;especially the
+&lt;a class="reference external" href="https://www.data.gov.in/"&gt;Data.gov.in&amp;nbsp;&lt;/a&gt;&amp;nbsp;Team&amp;nbsp;( which is &amp;nbsp;setup
+according to the
+&lt;a class="reference external" href="https://data.gov.in/sites/default/files/NDSAP_Implementation_Guidelines-2.0.pdf"&gt;NDSAP&lt;/a&gt;&amp;nbsp;guildelines)&amp;nbsp;&amp;nbsp;organized
+a Hackathon to hack the &lt;a class="reference external" href="https://12thplan.gov.in/"&gt;12th five year
+plan&amp;nbsp;&lt;/a&gt;&amp;nbsp;for those of who are not aware like
+most of us &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Five-Year_plans_of_India"&gt;Five years plans in
+India&lt;/a&gt;&amp;nbsp;are
+economic blueprints &amp;nbsp;from Planning&amp;nbsp;Commission&amp;nbsp;as to how are are going to
+spend in Next Five years.&lt;/p&gt;
+&lt;p&gt;We were at the venue around 11am , when things were still settling down
+at the Venue &lt;a class="reference external" href="https://www.iitd.ac.in/"&gt;IIT Delhi&amp;nbsp;&lt;/a&gt;&amp;nbsp;, we were supposed
+to be connected to the live webconference in the opening ceremony but
+due to connectivity issues we were able to just watch the broadcast ,
+but being in Delhi it was ok since there were frequent visit by
+&amp;nbsp;organizers just to check on how things were progressing.&lt;/p&gt;
+&lt;p&gt;In the whole commotion we sat in a corner and started talking about what
+to build we were froze on the &lt;a class="reference external" href="https://github.com/geohacker/12th-plan/blob/master/geohackers_presentation.pdf"&gt;Build your Plan
+&amp;nbsp;idea&lt;/a&gt;
+at around 2 Pm and started working on it there were two classrooms 6LT1
+and 6LT2 allocated for us to sit and complete the work in the meantime
+there were announcements and updates presentation from different sectors
+as to what there
+&lt;a class="reference external" href="https://planningcommission.nic.in/hackathon/index.php"&gt;expectations&lt;/a&gt;were
+as to this Hackathon , it was almost 5 Pm by the time others settled
+down and started the work in the meantime we were done with front end of
+our application. &lt;a class="reference external" href="https://twitter.com/geohacker"&gt;Sajjad&lt;/a&gt;and
+&lt;a class="reference external" href="https://twitter.com/RamniqueSingh"&gt;Ramnique&lt;/a&gt;coded the front end in
+two session one sitting in &lt;a class="reference external" href="https://www.cafeqahwa.in/"&gt;Cafe&amp;nbsp;Qahwa&amp;nbsp;&lt;/a&gt;.
+We realized we were not productive enough so we moved back home.&lt;/p&gt;
+&lt;p&gt;Day two we were all supposed to submit the applications by 12 in the
+noon and the presentations would be starting from 2 PM , &amp;nbsp;we pushed the
+submit button just in nick of time with Sajjad Ramnique and &lt;a class="reference external" href="https://twitter.com/ajantriks"&gt;Sumandro
+&amp;nbsp;&lt;/a&gt;&amp;nbsp;with a hardly any blink whole night
+.&lt;/p&gt;
+&lt;p&gt;First on the block were us Sumandro presented our idea and the Jury was
+interactive and liked out idea . Here is the link to &lt;a class="reference external" href="https://geohacker.github.io/12th-plan"&gt;Build Your
+App&lt;/a&gt; the live application
+.&amp;nbsp;&amp;nbsp;we hung around the venue till late in the evening till all the
+presentations were over .&lt;/p&gt;
+&lt;img alt="build1" class="align-center" src="../images/build1.png" style="width: 500px; height: 500px;" /&gt;
+&lt;p&gt;Once the user plays with his allocations he will get different
+scenarios showing how his plan will look.This he can share with people
+which they can vote on.&lt;/p&gt;
+&lt;p&gt;overall the experience has been a positive one with some scope for
+improvements like the internet connectivity was bad we were using our
+own 3G phones as access points . Students were not equipped and educated
+to what was expected from the event. Lots of disturbance with the so
+called VIP's visiting the venue now and then. No proper place to sleep
+yes people who hung out at the Venue were defending mosquitoes rather
+than building something .&lt;/p&gt;
+&lt;p&gt;Being first one for the Govt it must have been and educational
+experience , they also need to involve and publicize the event more in
+the public like they do to there Schemes in the Newspapers.&lt;/p&gt;
+&lt;blockquote&gt;
+Team geohackers with Montek&lt;/blockquote&gt;
+&lt;p&gt;here are some of the moments in &lt;a class="reference external" href="https://t.co/iC5o7pfhnW"&gt;pictures&lt;/a&gt;
+and all the &lt;a class="reference external" href="https://www.data.gov.in/hackathon/winners"&gt;winners&lt;/a&gt;
+listed here , i wished they have put the list of all the people no
+matter how small the effort was because in an event like this everyone
+benefits and everyone is a winner.&lt;/p&gt;
+</content><category term="community, hackathon, Opendata, social"></category><category term="Hackathon"></category></entry></feed>

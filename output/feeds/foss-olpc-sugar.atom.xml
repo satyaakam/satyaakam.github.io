@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom"><title>My Personal blog - FOSS, OLPC, Sugar</title><link href="https://www.satyaakam.net/" rel="alternate"></link><link href="https://www.satyaakam.net/feeds/foss-olpc-sugar.atom.xml" rel="self"></link><id>https://www.satyaakam.net/</id><updated>2011-09-28T07:25:00+02:00</updated><entry><title>Wanted Volunteer Transalators for Sugarlabs</title><link href="https://www.satyaakam.net/wanted-volunteer-transalators-for-sugarlabs.html" rel="alternate"></link><published>2011-09-28T07:25:00+02:00</published><updated>2011-09-28T07:25:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2011-09-28:/wanted-volunteer-transalators-for-sugarlabs.html</id><content type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Hi,&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;I am looking for translators in &lt;a class="reference external" href="https://translate.sugarlabs.org/"&gt;Sugar
+Labs&lt;/a&gt; especially in Hindi
+language, there is maintenance work if you are interested do write to
+me.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="FOSS, OLPC, Sugar"></category></entry><entry><title>OLPC @ Katha in Delhi</title><link href="https://www.satyaakam.net/olpc-katha-in-delhi.html" rel="alternate"></link><published>2009-08-24T07:56:00+02:00</published><updated>2009-08-24T07:56:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-08-24:/olpc-katha-in-delhi.html</id><content type="html">&lt;p&gt;[youtube]https://www.youtube.com/watch?v=n57KOQZ27Iw[/youtube]&lt;/p&gt;
+</content><category term="FOSS, OLPC, Sugar"></category><category term="Education"></category><category term="ICT"></category><category term="Laptop"></category><category term="OLPC"></category></entry><entry><title>OLPC boot sequence</title><link href="https://www.satyaakam.net/olpc-boot-sequence.html" rel="alternate"></link><published>2009-08-14T14:26:00+02:00</published><updated>2009-08-14T14:26:00+02:00</updated><author><name>satya</name></author><id>tag:www.satyaakam.net,2009-08-14:/olpc-boot-sequence.html</id><summary type="html">&lt;p&gt;Tried booting &lt;a class="reference external" href="https://laptop.org"&gt;OLPC&lt;/a&gt; from USB , OLPC has a
+security feature to not boot from external devices by default , it comes
+with a security lock , we can remove this by&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;a) Getting a Developer key&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;b) Flashing the firmware&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The idea is to boot from USB device and run Ubuntu from …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Tried booting &lt;a class="reference external" href="https://laptop.org"&gt;OLPC&lt;/a&gt; from USB , OLPC has a
+security feature to not boot from external devices by default , it comes
+with a security lock , we can remove this by&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;a) Getting a Developer key&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;b) Flashing the firmware&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The idea is to boot from USB device and run Ubuntu from USB then some
+apps over it, hope AMD processor with 256 MB of Ram can take all this.&lt;/p&gt;
+</content><category term="FOSS, OLPC, Sugar"></category><category term="OLPC"></category><category term="XO"></category></entry></feed>
