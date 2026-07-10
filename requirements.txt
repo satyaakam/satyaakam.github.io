@@ -19,6 +19,6 @@ python-dateutil==2.8.1
 python-gettext==4.0
 pytz==2019.3
 six==1.14.0
-soupsieve==2.0
+soupsieve==2.8.4
 Unidecode==1.1.1
 webassets==2.0
